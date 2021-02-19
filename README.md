@@ -5,5 +5,5 @@ The basis of this app, is to allow a user to create, retrieve,delete and update 
 1. Authentication using OAUTH2 flow 
 2. Dependency injections
 3. CRUD Endpoints 
-4. Deployment through Uvicorn server
+4. Deployment through ASGI server using the Uvicorn package
 5. Testing endpoints
